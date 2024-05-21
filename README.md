@@ -32,7 +32,7 @@ O escopo (scope) utilizado da API é o ```user-library-read``` e o retorno será
 [2024-05-21 16:38:48] Tempo de duracao: 70 sec
 ```
 
-### > Script: Features Tracks (Detalhamento das músicas)
+### > Script: Audio Features (Detalhamento das músicas)
 Para executar esse script é necessário que o arquivo gerado pelo Saved Tracks tenha sido gerado. O escopo (scope) utilizado da API é o ```audio_features``` e o retorno será um arquivo com as características de cada música, por exemplo: se ela é mais instrumental, acústica e por aí vai. Se estiver curioso para entender melhor acesse <a href="https://developer.spotify.com/documentation/web-api/reference/get-audio-features">Audio Features</a>  
 
 #### Response esperado:
