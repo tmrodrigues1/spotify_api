@@ -1,5 +1,5 @@
 # Introdução
-Este repositório reúne scripts que criei para extrair informações das minhas músicas favoritas do Spotify. Os dados extraídos são salvos em arquivos CSV, facilitando a criação de Dashboards.
+Este repositório reúne scripts que criei para extrair informações das minhas músicas favoritas do Spotify. Os dados extraídos são salvos em arquivos CSV, facilitando a criação de Dashboards e análises mais apuradas.
 Existem várias formas de conseguir esses dados, mas a opção escolhida foi através da utilização da biblioteca <a href="https://spotipy.readthedocs.io/en/">Spotipy</a>
 
 # Spotify WEB API
