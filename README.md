@@ -55,7 +55,7 @@ Para executar esse script é necessário que o arquivo gerado pelo Saved Tracks 
 Por conta das limitações da API do Spotify não é possível coletar os seus histórico de músicas reproduziadas. Nesse caso se faz necessário solicitar seus dados na plataforma, o que pode levar de 2-5 dias para estar pronta para download. 
 Clique no link para saber mais <a href="https://www.spotify.com/account/privacy/?_ga=2.120424716.566690053.1717614374-1133634410.1680754123">Download Dados Spotify</a>. 
 Você receberá um e-mail informando que os arquivos estão prontos para download e quando você o fizer, irá reparar em diversos arquivos no formato JSON.
-O script nesse repositírio é feito para juntar todos eles e convertê-los em .xlsx para facilitar a manipulação.
+O script ```join_json_spotifyhistory.py``` nesse repositírio é feito para juntar todos eles e convertê-los em .xlsx para facilitar a manipulação.
 
 # Dúvidas
 Compilado de principais dúvidas
